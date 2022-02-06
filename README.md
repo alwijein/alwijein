@@ -54,10 +54,6 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://flutter.dev/?gclid=Cj0KCQiA3fiPBhCCARIsAFQ8QzXenVRneLzFtdZUbg7GwhnQ5crIp8rtRNII61Zk-_iW9UFuq5JXJrcaAoaVEALw_wcB&gclsrc=aw.ds" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%311519C.svg?style=plastic&logo=flutter&logoColor=white">
-   </a>
-  &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
