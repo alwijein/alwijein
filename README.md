@@ -1,4 +1,5 @@
 
+  
 <h1 align="center">Hi , I'm Alwi Jaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Sciences;Mobile+Developer;UI+%2F+UX+Designer;3D+Designer;Web+Developer&center=true&width=500&height=50"></a>
@@ -17,19 +18,10 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alwijein&theme=algolia" alt="7oSkaaa" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alwijein&theme=cobalt)](https://git.io/streak-stats)
 
 <br>
 <br>
-
-
-## 👀 My UI / UX Platform
-
-<p align="center">
-  <a href="https://dribbble.com/alwijein"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-dribbble-social-media-justicon-flat-justicon.png"/></a>
-	<a href="https://www.instagram.com/alwi_jein/"><img src="https://img.icons8.com/office/64/000000/instagram-new.png"/></a>
-	<a href="https://www.behance.net/alwijein"><img src="https://img.icons8.com/fluency/64/000000/behance.png"/></a>
-	
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -159,7 +151,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/alwijein"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alwijein&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/alwijein"><img alt="Alwi Jein Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alwijein&custom_title=AlwiJein%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
