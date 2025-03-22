@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hi, I'm Alwi Jaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;UI%2FUX+Enthusiast;3D+Designer;Open-Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Mobile+Developer;Laravel+Developer;UI%2FUX+Enthusiast;3D+Designer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 - 🎓 Junior Computer Science student @ **University Muslim Indonesia**
 - 💡 Passionate about **Problem Solving** through software solutions
 - 🎨 **UI/UX** Design enthusiast & **3D Modeling** hobbyist
-- 🔭 Currently exploring: **Cloud Computing** & **Machine Learning**
-- 🌱 Learning: **React Native** & **Three.js**
+- 🔭 Currently working with: **Laravel** & **Flutter**
+- 🌱 Learning: **Advanced PHP** & **Mobile Architecture**
 - 📫 Reach me: [Portfolio](https://alwijein.github.io) | [LinkedIn](#)
-- ⚡ Fun fact: **Coffee** ☕ → **Code** 💻 fuel
+- ⚡ Fun fact: Bisa coding sambil **tidur** 😴 (just kidding!)
 
 ---
 
@@ -32,32 +32,34 @@
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### 💻 Web Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🌐 Web Development
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### ⚙️ Other
+### ⚙️ Other Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alwijein&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alwijein&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alwijein&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alwijein&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwijein&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwijein&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -67,16 +69,21 @@
 
 ---
 
-## 🌟 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🌟 Featured Projects
+
+### Mobile App (Flutter)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alwijein&repo=your-repo-name&theme=radical)](https://github.com/alwijein/flutter_gizi_anak)
+
+### Web App (Laravel)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alwijein&repo=your-repo-name&theme=radical)](https://github.com/alwijein/)
 
 ---
 
 <div align="center">
-  <img src="https://github.com/alwijein/alwijein/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/alwijein/alwijein/blob/master/github-user-contribution.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
-  <i>Let's connect and create something amazing!</i> 🤝
+  <i>"First, solve the problem. Then, write the code."</i> 💡<br>
+  <i>Let's build something amazing together!</i> 🤝
 </p>
