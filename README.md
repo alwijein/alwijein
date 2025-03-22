@@ -69,16 +69,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### Mobile App (Flutter)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alwijein&repo=your-repo-name&theme=radical)](https://github.com/alwijein/flutter_gizi_anak)
-
-### Web App (Laravel)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alwijein&repo=your-repo-name&theme=radical)](https://github.com/alwijein/)
-
----
-
 <div align="center">
   <img src="https://github.com/alwijein/alwijein/blob/master/github-user-contribution.svg" alt="Snake animation" />
 </div>
